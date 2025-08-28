@@ -1,6 +1,8 @@
-# Innovator Generalist
+# Inventor Generalist
 ## Contact me: stojnic.slavko@gmail.com
 ### Hi there 👋
+Feel free to contact me regarding the projects assembled here. 
+More to come. 🙏
 
 <!--
 **aRcHmaGe333/aRcHmaGe333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
