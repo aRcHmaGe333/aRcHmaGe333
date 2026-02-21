@@ -6,9 +6,7 @@ Designing autonomous food infrastructure and zero-waste delivery systems. Crypto
 
 ---
 
-## Active Projects
-
-### Autonomous Food System
+## Autonomous Food System
 
 [→ View Repository](https://github.com/aRcHmaGe333/AutonomousFoodSystem)
 
@@ -19,7 +17,9 @@ Modular, autonomous food production — livestock, growing, waste processing, en
 - Straightforward PLC code over AI complexity
 - 127+ files, 25+ passing tests, full spec documentation
 
-### PrecisionDelivery
+---
+
+## PrecisionDelivery
 
 [→ View Repository](https://github.com/aRcHmaGe333/PrecisionDelivery)
 
@@ -32,10 +32,19 @@ Subscription delivery of everything — food, household goods, hygiene, medicine
 
 ---
 
-## Other Work
+## Universal Data Fabric (UDF)
 
-- [**Universal Data Fabric (UDF)**](https://github.com/aRcHmaGe333/udf) — Next-generation distributed data infrastructure blueprint. Coalition-building phase.
-- [**ECOmpile**](https://github.com/aRcHmaGe333/ECOmpile) — AI refinery for hybrid neural-code stacks. R&D phase.
+[→ View Repository](https://github.com/aRcHmaGe333/udf)
+
+A next-generation vision for distributed data and global infrastructure. Content-addressed, deduplicated, universally interoperable data, compute, and device abstraction. Standards-grade, open, designed to become global infrastructure. Coalition-building phase — seeking funding partners, organizational stewards, and technical visionaries.
+
+---
+
+## ECOmpile
+
+[→ View Repository](https://github.com/aRcHmaGe333/ECOmpile)
+
+An AI refinery for building hybrid neural-code stacks from self-assessing neural systems. Models improvise, refine, and extract the best elements of automated workflows, then distill them into transparent, reproducible code artifacts. Cost-effective, safety-conscious, traceable pipelines for neural-symbolic code generation and auditing.
 
 ---
 
