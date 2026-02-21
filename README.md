@@ -1,48 +1,50 @@
-# Inventor Generalist
+# Slavko Stojnić — Inventor, Stockholm
 
-**Contact:** stojnic.slavko@gmail.com  
-*Open to inquiries, collaboration, and partnerships regarding the projects assembled here.*
+Designing autonomous food infrastructure and zero-waste delivery systems. Cryptographically timestamped, openly documented, built to work.
 
----
-
-## Recent Disclosures
-
-### Universal Data Fabric (UDF)
-
-[→ View UDF Repository](https://github.com/aRcHmaGe333/udf)
-
-**A next-generation vision for distributed data & global infrastructure.**
-
-Universal Data Fabric is a flagship architectural disclosure and coalition-building effort—an ambitious blueprint for content-addressed, deduplicated, and universally interoperable data, compute, and device abstraction.  
-This work is public-interest driven and openly seeks funders, prospective collaborators, and foundational partners to help shape and realize this vision on a global scale.
-
-- Designed to become global infrastructure—standards-grade, open, and responsibly stewarded.
-- Seeking:  
-    - Funding partners, organizational stewards, and technical visionaries.
-    - Provisional core team members (described in repository) for future, post-funding activation.
-    - Advisory and coalition participants for stewardship and design.
-- Founder’s Role: My primary contribution has been defining and launching the vision. Going forward, I seek a guiding, strategic role—helping set direction and foster collaboration, while empowering true experts to build the next steps.
-
-> *If you are interested in pilot partnerships, coalition-building, or being provisionally named for future technical or advisory roles, please see [FUNDING.md](https://github.com/aRcHmaGe333/udf/blob/main/FUNDING.md) or open an issue in the repository.*
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20this%20work-ff5e5b?logo=ko-fi&logoColor=white)](https://ko-fi.com/earthcraft)
 
 ---
 
-### ECOmpile
+## Active Projects
 
-[→ View ECOmpile Repository](https://github.com/aRcHmaGe333/ECOmpile)
+### Autonomous Food System
 
-**An “AI refinery” for building hybrid neural–code stacks from self-assessing neural systems (with a dose of human-in-the-loop oversight).**
+[→ View Repository](https://github.com/aRcHmaGe333/AutonomousFoodSystem)
 
-ECOmpile is an R&D-phase project exploring how models can improvise, refine, and extract the best elements of automated workflows—then distill these into transparent, reproducible code artifacts.  
-The vision:  
-- Cost-effective, safety-conscious, and environmentally sustainable outcomes
-- Traceable, inspectable pipelines for neural-symbolic code generation and auditing
-- Emphasis on governance, risk, and genuine value—not marketing hype
+Modular, autonomous food production — livestock, growing, waste processing, energy — designed as interlocking modules. The milking system replaces robotic arms with floor geometry: a narrowing corridor guides the cow into position, contoured hoof-wells index her stance, and a rising floor cradle does the milking. No articulated joints. No machine vision. Comfort drives voluntary queuing, which eliminates herding systems entirely.
 
-See the repository’s layered documentation for executive overview, architecture, roadmap, and early SDK concept examples.
+- Passive-cradle milking system (no robotic arms, no machine vision)
+- Closed-loop waste → energy → fertilizer → growing cycle
+- Straightforward PLC code over AI complexity
+- 127+ files, 25+ passing tests, full spec documentation
 
-> Open to collaboration, funding, and inquiries. All rights reserved; see the repo for licensing and contact details.
+### PrecisionDelivery
+
+[→ View Repository](https://github.com/aRcHmaGe333/PrecisionDelivery)
+
+Subscription delivery of everything — food, household goods, hygiene, medicine — in reusable packaging. Zero waste, lower cost than retail, your free time returned. Containers are Gastronorm-compatible, fridge-slottable, and designed for industrial wash cycles.
+
+- Electric vehicle fleet (Phase 1) → micro-depots (Phase 2) → gravity-accelerated tube networks (Phase 3)
+- Reusable container system replaces all disposable packaging
+- Per-household consumption profiling and portion calibration
+- The vehicle fleet generates the revenue. The data proves the demand. The demand justifies the infrastructure.
 
 ---
 
-_Broader work and further disclosures to come. My ongoing goal is to empower the ecosystem through foundational, collaborative ideas—delivered with transparency and readiness for coalition._
+## Other Work
+
+- [**Universal Data Fabric (UDF)**](https://github.com/aRcHmaGe333/udf) — Next-generation distributed data infrastructure blueprint. Coalition-building phase.
+- [**ECOmpile**](https://github.com/aRcHmaGe333/ECOmpile) — AI refinery for hybrid neural-code stacks. R&D phase.
+
+---
+
+## Intellectual Property
+
+All projects use the **APC-VF License v2.0** with RFC 3161 cryptographic timestamps proving authorship and development history. See VERIFY.md in each repository for independent verification.
+
+## Contact
+
+Open to collaboration, pilot partnerships, and investment inquiries.
+
+**Email:** stojnic.slavko@gmail.com
