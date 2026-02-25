@@ -10,9 +10,9 @@ Designing autonomous food infrastructure and zero-waste delivery systems. Crypto
 
 [→ View Repository](https://github.com/aRcHmaGe333/AutonomousFoodSystem)
 
-Modular, autonomous food production — livestock, growing, waste processing, energy — designed as interlocking modules. The milking system replaces robotic arms with floor geometry: a narrowing corridor guides the cow into position, contoured hoof-wells index her stance, and a rising floor cradle does the milking. No articulated joints. No machine vision. Comfort drives voluntary queuing, which eliminates herding systems entirely.
+Modular, autonomous food production — livestock, growing, waste processing, energy — designed as interlocking modules. The milking system replaces robotic arms with floor geometry: a narrowing corridor guides the cow into position, contoured hoof-wells index her stance, and a rising floor cradle does the milking. Comfort drives voluntary queuing, which eliminates herding systems entirely.
 
-- Passive-cradle milking system (no robotic arms, no machine vision)
+- Passive-cradle milking system (floor geometry replaces robotic arms)
 - Closed-loop waste → energy → fertilizer → growing cycle
 - Straightforward PLC code over AI complexity
 - 127+ files, 25+ passing tests, full spec documentation
@@ -29,6 +29,32 @@ Subscription delivery of everything — food, household goods, hygiene, medicine
 - Reusable container system replaces all disposable packaging
 - Per-household consumption profiling and portion calibration
 - The vehicle fleet generates the revenue. The data proves the demand. The demand justifies the infrastructure.
+
+---
+
+## ValueFlow
+
+[→ View Repository](https://github.com/aRcHmaGe333/ValueFlow)
+
+A protocol and operational model for automatic, auditable revenue sharing between original IP creators and parties that produce derivative works. Removes licensing friction while preserving fair compensation and full provenance tracking.
+
+- Automatic revenue flow from derivative works back to the original creator
+- Auditable, tamper-evident records of IP lineage
+- Implementation-agnostic: works with any digital asset type
+- Prior-art disclosure published and timestamped
+
+---
+
+## PatentMake
+
+[→ View Repository](https://github.com/aRcHmaGe333/PatentMake)
+
+Public authorship infrastructure for the post-patent era. Licensing templates and a GitHub Actions workflow that turn any repository into a continuously self-proving record of authorship. Every push is automatically hashed, timestamped via RFC 3161, and committed back to the repo.
+
+- APC and APC-VF license templates
+- Automated RFC 3161 timestamping on every push
+- Independently verifiable with free tools — the proof is in the math, not the service
+- One system is based on evidence. The other is based on permission.
 
 ---
 
