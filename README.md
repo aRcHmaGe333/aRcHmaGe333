@@ -36,25 +36,25 @@ Subscription delivery of everything — food, household goods, hygiene, medicine
 
 [→ View Repository](https://github.com/aRcHmaGe333/ValueFlow)
 
-A protocol and operational model for automatic, auditable revenue sharing between original IP creators and parties that produce derivative works. Removes licensing friction while preserving fair compensation and full provenance tracking.
+A protocol and operational model for automatic, auditable profit sharing between original IP creators and parties that produce derivative works. Removes licensing friction while preserving fair compensation and full provenance tracking.
 
-- Automatic revenue flow from derivative works back to the original creator
+- Automatic profit flow from derivative works back to the original creator
 - Auditable, tamper-evident records of IP lineage
 - Implementation-agnostic: works with any digital asset type
 - Prior-art disclosure published and timestamped
 
 ---
 
-## PatentMake
+## IPClaim
 
-[→ View Repository](https://github.com/aRcHmaGe333/PatentMake)
+[→ View Repository](https://github.com/aRcHmaGe333/IPClaim)
 
-Public authorship infrastructure for the post-patent era. Licensing templates and a GitHub Actions workflow that turn any repository into a continuously self-proving record of authorship. Every push is automatically hashed, timestamped via RFC 3161, and committed back to the repo.
+Intellectual property claim infrastructure for the post-patent world. Licensing templates, an automation script, and a GitHub Actions workflow that turn any repository into a continuously self-proving record of authorship. One command stamps a repo — license, timestamp workflow, verification instructions — all filled in automatically.
 
+- `stamp.sh`: one-command setup for any repo
 - APC and APC-VF license templates
 - Automated RFC 3161 timestamping on every push
 - Independently verifiable with free tools — the proof is in the math, not the service
-- One system is based on evidence. The other is based on permission.
 
 ---
 
