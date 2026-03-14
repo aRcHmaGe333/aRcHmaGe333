@@ -10,12 +10,13 @@ Designing autonomous food infrastructure and zero-waste delivery systems. Crypto
 
 [→ View Repository](https://github.com/aRcHmaGe333/AutonomousFoodSystem)
 
-Modular, autonomous food production — livestock, growing, waste processing, energy — designed as interlocking modules. The milking system replaces robotic arms with floor geometry: a narrowing corridor guides the cow into position, contoured hoof-wells index her stance, and a rising floor cradle does the milking. Comfort drives voluntary queuing, which eliminates herding systems entirely.
+Integrated automation system for food production that combines controlled growing, livestock handling, waste processing, and on-site energy into one operational architecture.
 
-- Passive-cradle milking system (floor geometry replaces robotic arms)
-- Closed-loop waste → energy → fertilizer → growing cycle
-- Straightforward PLC code over AI complexity
-- 127+ files, 25+ passing tests, full spec documentation
+- Plant-growing automation for repeatable cultivation, environmental control, and production planning
+- Livestock automation featuring a passive-cradle milking design that uses floor geometry instead of robotic arms
+- Closed-loop resource flow: waste → energy → fertilizer → growing
+- Practical controls stack built around PLC/industrial automation with targeted AI where useful
+- Full repository documentation includes specs, diagrams, rationale, and implementation scaffolding
 
 ---
 
