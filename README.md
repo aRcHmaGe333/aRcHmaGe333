@@ -31,12 +31,13 @@ A regenerative, earth-centric automation stack that integrates controlled growin
 
 [→ View Repository](https://github.com/aRcHmaGe333/AllDone)
 
-Reusable, low-footprint subscription delivery that returns convenience without creating waste. Designed as an infrastructure pathway from local electric fleets to regional and planetary-scale distribution.
+AllDone is a public concept, research, and early prototype project redefining modern logistics with a smart, closed-loop home provisioning system that replaces repetitive shopping with a zero-waste subscription loop. Built on a Node.js backend, the platform uses consumption profiling to automatically adapt deliveries to actual household usage, delivering daily consumables in durable, reusable containers that are collected, industrially washed, and recirculated.
 
-- Electric vehicle fleet (Phase 1) → micro-depots (Phase 2) → gravity-accelerated tube networks (Phase 3)
-- Reusable container system replacing single-use packaging
-- Household consumption profiling and portion calibration for demand-matching and waste reduction
-- The vehicle fleet funds and proves the demand that justifies larger infrastructure investments
+- Smart Circular System: Replaces single-use packaging with reusable glass containers and automates household portion calibration to eliminate waste at the source.
+
+- Scalable Infrastructure: Designed as a multi-phase logistics pathway, using a Phase 1 electric vehicle fleet to prove demand and fund future transitions toward micro-depots and regional gravity-accelerated tube networks.
+
+- Current Status & IP: Operating as a public research and proprietary repository (IPClaim APC License v1.1) focused on finalizing unit economics, securing pre-seed investment, and locking in pilot partners to build the physical loop.
 
 ---
 
