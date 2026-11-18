@@ -13,6 +13,14 @@ Designing earth-centered systems and planetary-scale infrastructure with a craft
 
 ---
 
+## ASOSOS — A System of Systems of Systems
+
+[→ Read the integrated ASOSOS design](ASOSOS.md)
+
+A proposed system connecting reusable computational results, deterministic code, developed agent abilities, shared storage, intellectual work, and autonomous maintenance. Existing projects remain independent; the design describes how their achievements can be reused across systems.
+
+---
+
 ## Autonomous Food System
 
 [→ View Repository](https://github.com/aRcHmaGe333/AutonomousFoodSystem)
@@ -85,7 +93,7 @@ An AI refinery for synthesizing hybrid neural–code systems: models that iterat
 
 ## Intellectual Property
 
-All projects use the APC-VF License v2.0 and are paired with RFC 3161 cryptographic timestamps to prove authorship and development history. See VERIFY.md in each repository for independent verification instructions.
+Licensing and timestamp evidence differ by repository. This profile's ASOSOS disclosure uses the canonical APC/IPClaim files and timestamp workflow; individual projects retain their own licenses and verification records. See VERIFY.md and the relevant project's repository for proof details.
 
 ---
 
