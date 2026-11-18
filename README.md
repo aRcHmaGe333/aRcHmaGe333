@@ -93,7 +93,7 @@ An AI refinery for synthesizing hybrid neural–code systems: models that iterat
 
 ## Intellectual Property
 
-Licensing and timestamp evidence differ by repository. This profile's ASOSOS disclosure uses the canonical APC/IPClaim files and timestamp workflow; individual projects retain their own licenses and verification records. See VERIFY.md and the relevant project's repository for proof details.
+The ASOSOS disclosure in this repository has an APC license and an RFC 3161 timestamp workflow. Its verification instructions are in [VERIFY.md](VERIFY.md). Each linked repository defines its own licensing terms and evidence; inspect that repository for the applicable terms.
 
 ---
 
